@@ -14,3 +14,14 @@ i mainly followed the tutorial from kai to make all this, i ran into some proble
 <img width="1481" height="634" alt="image" src="https://github.com/user-attachments/assets/9e884747-d1b7-4326-9461-4029a19a4a10" />
 
 i followed more of the dev baord tutorial from kai, i had some problems doing the crystal footprint. i also kinda skipped over the flash memory. i'll do that next journal. most of the time this sesh was spent googing what half this shi does
+
+# journal 3; 4 hrs
+
+<img width="417" height="499" alt="image" src="https://github.com/user-attachments/assets/ddd9f715-e5ef-4f52-b04d-7e94e5db0b9a" />
+<img width="1285" height="1129" alt="image" src="https://github.com/user-attachments/assets/b175061f-4391-401b-a8e1-93ab41fc72e9" />
+<img width="1285" height="1129" alt="image" src="https://github.com/user-attachments/assets/1f71f82b-403b-4178-87c9-5f40615a4614" />
+<img width="858" height="795" alt="image" src="https://github.com/user-attachments/assets/a8de44dd-66ca-4009-9df4-7a76a35a072f" />
+<img width="464" height="522" alt="image" src="https://github.com/user-attachments/assets/e0122759-105b-4eaf-88cf-62520b821107" />
+<img width="519" height="599" alt="image" src="https://github.com/user-attachments/assets/59e5e108-d929-48b0-a8a9-f2a4284679ce" />
+<img width="978" height="1026" alt="image" src="https://github.com/user-attachments/assets/d8ec00ea-2565-4f29-9a68-202f31394954" />
+A lot of this sesh was spent on routing the pcb a few times, i had problems with how the capacitors were positioned which is why i had to move them so many times. they're supposed to be as close to the chip as possible, kai helped me out with in a thread!
